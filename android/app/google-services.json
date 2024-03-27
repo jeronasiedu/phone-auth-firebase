@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "929019006788",
+    "project_id": "cs-100",
+    "storage_bucket": "cs-100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929019006788:android:b958ac03e28121756d5111",
+        "android_client_info": {
+          "package_name": "com.jerondev.CS100"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929019006788-0ecmkonp8ptg3fr34kn98ga8dh5hhvfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jerondev.CS100",
+            "certificate_hash": "7e895a6005e2afb62f1768b0aa0f84ce848cb10e"
+          }
+        },
+        {
+          "client_id": "929019006788-quec1bbt0qvuhu31etk3rhfmp7bbsev0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jerondev.CS100",
+            "certificate_hash": "a643e06687f79ae64c07b053908e04216080fb16"
+          }
+        },
+        {
+          "client_id": "929019006788-vnb2ses6jto9rbf3eouk714sprhq5n5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXgPbQNQb99AFj6NFQ3kpdtCW-i2uwWcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929019006788-vnb2ses6jto9rbf3eouk714sprhq5n5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "929019006788-h76f4r7j70s0evvsru1gj47u1amj772v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jerondev.auth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929019006788:android:c4cac947b0ecd43d6d5111",
+        "android_client_info": {
+          "package_name": "com.jerondev.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929019006788-vnb2ses6jto9rbf3eouk714sprhq5n5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXgPbQNQb99AFj6NFQ3kpdtCW-i2uwWcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929019006788-vnb2ses6jto9rbf3eouk714sprhq5n5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "929019006788-h76f4r7j70s0evvsru1gj47u1amj772v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jerondev.auth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
